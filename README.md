@@ -23,7 +23,6 @@ Atualmente estou praticando diariamente com exercícios, projetos simples e estu
 ### **Exercícios — Curso em Vídeo (HTML/CSS)**
 🔗 https://pedronagao.github.io/html-css/
 
-*(Página inicial com lista de todos os exercícios)*
 ### **Projeto - Site Android (Desafio do curso de HTML e CSS)**
 🔗 https://pedronagao.github.io/projeto-android/
 
